@@ -1,0 +1,2 @@
+# ScratchProjectDotNetCore
+DotNetCore Project
